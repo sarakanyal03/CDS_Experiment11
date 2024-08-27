@@ -43,3 +43,14 @@ ClassName objectName;
 You can access the data members and member functions of an object using the dot operator (.).
 3. Memory Allocation
 When you create an object, memory is allocated for the data members of the class. Each object has its own separate memory space for its data members.
+# CODES & OUTPUT
+* CODE 11A:
+  OUTPUT 11A:
+* CODE 11B:
+  OUTPUT 11B:
+* CODE 11C:
+  OUTPUT 11C:
+* CODE 11D:
+  OUTPUT 11D:
+* CODE 11E:
+  OUTPUT 11E:
