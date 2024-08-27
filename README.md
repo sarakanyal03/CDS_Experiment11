@@ -1,7 +1,7 @@
 # Experiment 11
 # AIM
 To study and implement classes and objects
-# Theory 
+# THEORY 
 1. A class is a user-defined data type that serves as a blueprint for creating objects. It defines attributes (data members) and behaviors (member functions) that the objects created from the class will have.
 2. Basic Structure of a Class
 Here's a basic structure of a class in C++:
